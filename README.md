@@ -23,33 +23,25 @@
                           <li class="nav-item">
                             <a class="nav-link active" aria-current="page" href="#" >Yo</a>
                           </li>
-
-                          
-
-
-                          <li class="nav-item">
+                            <li class="nav-item">
                             <a class="nav-link active" aria-current="page" href="#">Mis mascotas</a>
                           </li>
                           <li class="nav-item dropdown">
                             <a class="nav-link active" href="#"  aria-current="false">
                               Personajes Favoritos
                             </a>
-                            
-                          </li>
+                            </li>
                           <li class="nav-item">
                             <a class="nav-link active" aria-current="page" href="#">Mi Artista Favorito</a>
                           </li>
                         </ul>
-                        
-                      </div>
+                        </div>
                     </div>
                   </nav>
             </div>
         </div>
     </div>
-
-
-    <div class="accordion" id="accordionPanelsStayOpenExample">
+ <div class="accordion" id="accordionPanelsStayOpenExample">
         <div class="accordion-item">
           <h2 class="accordion-header">
             <button class="accordion-button" type="button" data-bs-toggle="collapse" data-bs-target="#panelsStayOpen-collapseOne" aria-expanded="true" aria-controls="panelsStayOpen-collapseOne" >
@@ -58,8 +50,7 @@
           </h2>
           <div id="panelsStayOpen-collapseOne" class="accordion-collapse collapse show">
             <div class="accordion-body">
-
-                <div id="carouselExampleAutoplaying" class="carousel slide" data-bs-ride="carousel">
+<div id="carouselExampleAutoplaying" class="carousel slide" data-bs-ride="carousel">
                     <div class="carousel-inner">
                       <div class="carousel-item active">
                         <img src="Imag/yon.jpg" class="d-block w-100" alt="...">
@@ -85,10 +76,7 @@
           </div>
         </div>
 
-        
-
-
-        <div class="accordion-item">
+ <div class="accordion-item">
           <h2 class="accordion-header">
             <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#panelsStayOpen-collapseTwo" aria-expanded="false" aria-controls="panelsStayOpen-collapseTwo">
               Mis mascotas
@@ -122,11 +110,7 @@
           </div>
         </div>
 
-
-
-
-
-        <div class="accordion-item">
+<div class="accordion-item">
           <h2 class="accordion-header">
             <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#panelsStayOpen-collapseThree" aria-expanded="false" aria-controls="panelsStayOpen-collapseThree">
               Personajes favoritos
@@ -160,9 +144,7 @@
           </div>
         </div>
 
-
-
-        <div class="accordion-item">
+ <div class="accordion-item">
             <h2 class="accordion-header">
               <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#panelsStayOpen-collapseFour" aria-expanded="false" aria-controls="panelsStayOpen-collapseFour">
                 Artistas favoritos
@@ -192,8 +174,7 @@
                       </button>
                     </div>
                 <strong>BTS .</strong> bts es tambien llamado Bangtan Sonyeondan El grupo debuto el 13 de junio de 2013 con la canción “No More Dream”.
-
-                El nombre de su club de fan oficial es A.R.M.Y, acrónimo de “Adorable Representative MC for Youth” las canciones  de BTS motivan a muchos jovenes a tener amor propio .
+ El nombre de su club de fan oficial es A.R.M.Y, acrónimo de “Adorable Representative MC for Youth” las canciones  de BTS motivan a muchos jovenes a tener amor propio .
               </div>
             </div>
           </div>
@@ -201,7 +182,7 @@
 
 
 
-      </div>
+ </div>
 <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.3/dist/js/bootstrap.bundle.min.js"></script>
 </body>
 </html>
